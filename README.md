@@ -1,26 +1,16 @@
-Project finished on 2022/05/17
+# Logiciel de gestion d'un magasin de livres
 
-Contributors : 
-  @bouederni
-  @CamilleBert
+Ce projet a été réalisé par @bouederni et @camouais, terminé le 2022/05/17. Il s'agit d'un logiciel de gestion d'une librairie, avec les fonctionnalités suivantes : 
+- Identification & Connexion au compte d'un magasin
+- Création, modification, suppression de clients, livres, employés, dépenses
+- Achat de livres
+- Visualisation des statistiques des clients, livres, employés, ventes, dépenses
+- Estimation des recettes totales
 
-Language : Java
+## Installation & Utilisation
 
-Software language : french 
+Installer App.java et utiliser. 
 
-During our 2nd year of computer science degree, we made a java software allowing management of a bookstore.
-
-This software includes these features :
-
-- identify / create a store 
-- create / modify / delete customers, books, employees, expenses
-- making a purchase
-- visualization of the statistics of customers, books, employees, sales
-- estimate total revenue
-
-
-PS : if you want to test the software with an existing store, please use :
-
-- Name : Gibert<br>
-- Password : admin
-</br>
+Si vous souhaitez tester l'application avec un compte pré-existant, utilisez les identifiants suivants :
+- **Name** : Gibert
+- **Password** : admin
